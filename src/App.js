@@ -4,11 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      
-          Learn React
-    
-      </header>
+     <h1>
+       Playstore
+     </h1>
     </div>
   );
 }
